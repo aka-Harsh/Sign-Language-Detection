@@ -15,7 +15,7 @@
 
 ## Prerequisites
 
-🚨 There is a pretrained model already available. <br>
+🚨 This repository already contains a pretrained model named **keras_model.h5**. <br>
 
  (**Optional**) But if you want to make custom dataset use 👉 [Teachable Machine](https://teachablemachine.withgoogle.com/train/image). Before downloading you custom model you have to grab pictures of all sign languages explained in **Deployment** process.  
 
