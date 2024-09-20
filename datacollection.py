@@ -5,7 +5,7 @@ import math
 import time
 
 # Corrected file path with raw string to avoid invalid escape sequences
-folder = r"C:\Projects\Sign\data\I_love_you"
+folder = r"{location to you folder}"
 
 cap = cv2.VideoCapture(0)
 detector = HandDetector(maxHands=1)  # Detect only one hand at a time

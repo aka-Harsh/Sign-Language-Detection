@@ -1,0 +1,12 @@
+1. This folder should contain all the files of the I_love_you sign in sign language.
+
+2. To make your custom data for I love you symbol do the following: 
+
+- Navigate to datacollection.py
+- Go to the 8th line and add the location of your I_love_you folder it would something like this 👇
+
+folder = r"C:\Sign-Language-Detection\data\I_love_you"
+
+3. Access internet to search how I Love You symbol looks like.
+
+4. Point the symbol in front of the camera and press 's' on you keyboard to take and save picture. 
