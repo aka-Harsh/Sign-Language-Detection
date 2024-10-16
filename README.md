@@ -10,7 +10,7 @@
 <img src="https://miro.medium.com/v2/resize:fit:600/0*2E9-J5WPFbVI_d32" height="35" width="45" alt="vscode logo"  />
 <img width="12" />
 ## Video Demo
-🎥 Here you can find a video of the working project
+🎥 Here you can find a video of the working project.
 
 https://github.com/user-attachments/assets/fd5e59a7-06ad-4626-a031-c3696745e181
 
@@ -25,33 +25,33 @@ https://github.com/user-attachments/assets/fd5e59a7-06ad-4626-a031-c3696745e181
 
 ## Deployment
 
-To run this project first clone this repository using
+To run this project first clone this repository using:
 
 ```bash
   git clone https://github.com/aka-Harsh/Sign-Language-Detection.git
 ```
-Locate this repository using terminal and then create a virtual enviroment and activate it using
+Locate this repository using terminal and then create a virtual enviroment and activate it using:
 
 ```bash
   python -m venv venv
   venv\Scripts\activate
 ```
-Perform this in your VScode editor to select python intepreter
+Perform this in your VScode editor to select python intepreter:
 ```bash
   Select View > Command Palette > Python: Select Interpreter > Enter Interpreter path > venv > Script > python.exe
 ```
 
-Install all the required packages 
+Install all the required packages:
 ```bash
   pip install -r requirements.txt
 ```
 
-Run the **datacollection.py** file to take the pictures of different sign language symbols pictures 🚨 ***(use help.txt for more info)***
+Run the **datacollection.py** file to take the pictures of different sign language symbols pictures. 🚨 ***(use help.txt for more info)***
 ```bash
   python datacollection.py
 ```
 
-Finally run the app.py file
+Finally run the app.py file:
 ```bash
   python app.py
 ```
